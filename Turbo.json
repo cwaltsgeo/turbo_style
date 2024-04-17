@@ -1,0 +1,1586 @@
+[
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            48,
+            18,
+            59,
+            255
+        ],
+        "toColor": [
+            50,
+            24,
+            74,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            50,
+            24,
+            74,
+            255
+        ],
+        "toColor": [
+            54,
+            33,
+            95,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            54,
+            33,
+            95,
+            255
+        ],
+        "toColor": [
+            56,
+            38,
+            108,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            56,
+            38,
+            108,
+            255
+        ],
+        "toColor": [
+            59,
+            47,
+            127,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            59,
+            47,
+            127,
+            255
+        ],
+        "toColor": [
+            60,
+            53,
+            139,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            60,
+            53,
+            139,
+            255
+        ],
+        "toColor": [
+            63,
+            61,
+            156,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            63,
+            61,
+            156,
+            255
+        ],
+        "toColor": [
+            65,
+            69,
+            171,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            65,
+            69,
+            171,
+            255
+        ],
+        "toColor": [
+            66,
+            75,
+            181,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            66,
+            75,
+            181,
+            255
+        ],
+        "toColor": [
+            67,
+            83,
+            194,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            67,
+            83,
+            194,
+            255
+        ],
+        "toColor": [
+            68,
+            88,
+            203,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            68,
+            88,
+            203,
+            255
+        ],
+        "toColor": [
+            69,
+            96,
+            214,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            69,
+            96,
+            214,
+            255
+        ],
+        "toColor": [
+            70,
+            104,
+            224,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            70,
+            104,
+            224,
+            255
+        ],
+        "toColor": [
+            70,
+            109,
+            230,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            70,
+            109,
+            230,
+            255
+        ],
+        "toColor": [
+            70,
+            117,
+            237,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            70,
+            117,
+            237,
+            255
+        ],
+        "toColor": [
+            70,
+            122,
+            242,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            70,
+            122,
+            242,
+            255
+        ],
+        "toColor": [
+            70,
+            130,
+            248,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            70,
+            130,
+            248,
+            255
+        ],
+        "toColor": [
+            69,
+            135,
+            251,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            69,
+            135,
+            251,
+            255
+        ],
+        "toColor": [
+            67,
+            142,
+            253,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            67,
+            142,
+            253,
+            255
+        ],
+        "toColor": [
+            64,
+            150,
+            254,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            64,
+            150,
+            254,
+            255
+        ],
+        "toColor": [
+            62,
+            155,
+            254,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            62,
+            155,
+            254,
+            255
+        ],
+        "toColor": [
+            57,
+            162,
+            252,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            57,
+            162,
+            252,
+            255
+        ],
+        "toColor": [
+            54,
+            168,
+            249,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            54,
+            168,
+            249,
+            255
+        ],
+        "toColor": [
+            49,
+            175,
+            245,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            49,
+            175,
+            245,
+            255
+        ],
+        "toColor": [
+            43,
+            182,
+            239,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            43,
+            182,
+            239,
+            255
+        ],
+        "toColor": [
+            40,
+            187,
+            235,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            40,
+            187,
+            235,
+            255
+        ],
+        "toColor": [
+            35,
+            194,
+            228,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            35,
+            194,
+            228,
+            255
+        ],
+        "toColor": [
+            32,
+            198,
+            223,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            32,
+            198,
+            223,
+            255
+        ],
+        "toColor": [
+            28,
+            205,
+            215,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            28,
+            205,
+            215,
+            255
+        ],
+        "toColor": [
+            26,
+            209,
+            210,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            26,
+            209,
+            210,
+            255
+        ],
+        "toColor": [
+            24,
+            215,
+            202,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            24,
+            215,
+            202,
+            255
+        ],
+        "toColor": [
+            23,
+            220,
+            194,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            23,
+            220,
+            194,
+            255
+        ],
+        "toColor": [
+            24,
+            224,
+            189,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            24,
+            224,
+            189,
+            255
+        ],
+        "toColor": [
+            26,
+            228,
+            182,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            26,
+            228,
+            182,
+            255
+        ],
+        "toColor": [
+            29,
+            231,
+            177,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            29,
+            231,
+            177,
+            255
+        ],
+        "toColor": [
+            34,
+            235,
+            169,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            34,
+            235,
+            169,
+            255
+        ],
+        "toColor": [
+            41,
+            238,
+            160,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            41,
+            238,
+            160,
+            255
+        ],
+        "toColor": [
+            47,
+            240,
+            154,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            47,
+            240,
+            154,
+            255
+        ],
+        "toColor": [
+            56,
+            244,
+            145,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            56,
+            244,
+            145,
+            255
+        ],
+        "toColor": [
+            63,
+            245,
+            138,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            63,
+            245,
+            138,
+            255
+        ],
+        "toColor": [
+            74,
+            248,
+            128,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            74,
+            248,
+            128,
+            255
+        ],
+        "toColor": [
+            85,
+            250,
+            118,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            85,
+            250,
+            118,
+            255
+        ],
+        "toColor": [
+            93,
+            251,
+            111,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            93,
+            251,
+            111,
+            255
+        ],
+        "toColor": [
+            105,
+            253,
+            101,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            105,
+            253,
+            101,
+            255
+        ],
+        "toColor": [
+            113,
+            253,
+            95,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            113,
+            253,
+            95,
+            255
+        ],
+        "toColor": [
+            124,
+            254,
+            86,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            124,
+            254,
+            86,
+            255
+        ],
+        "toColor": [
+            132,
+            254,
+            80,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            132,
+            254,
+            80,
+            255
+        ],
+        "toColor": [
+            142,
+            254,
+            72,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            142,
+            254,
+            72,
+            255
+        ],
+        "toColor": [
+            152,
+            254,
+            66,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            152,
+            254,
+            66,
+            255
+        ],
+        "toColor": [
+            158,
+            253,
+            62,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            158,
+            253,
+            62,
+            255
+        ],
+        "toColor": [
+            166,
+            251,
+            58,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            166,
+            251,
+            58,
+            255
+        ],
+        "toColor": [
+            172,
+            250,
+            55,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            172,
+            250,
+            55,
+            255
+        ],
+        "toColor": [
+            179,
+            248,
+            53,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            179,
+            248,
+            53,
+            255
+        ],
+        "toColor": [
+            187,
+            244,
+            52,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            187,
+            244,
+            52,
+            255
+        ],
+        "toColor": [
+            192,
+            242,
+            51,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            192,
+            242,
+            51,
+            255
+        ],
+        "toColor": [
+            200,
+            238,
+            51,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            200,
+            238,
+            51,
+            255
+        ],
+        "toColor": [
+            205,
+            235,
+            52,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            205,
+            235,
+            52,
+            255
+        ],
+        "toColor": [
+            212,
+            231,
+            53,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            212,
+            231,
+            53,
+            255
+        ],
+        "toColor": [
+            216,
+            227,
+            53,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            216,
+            227,
+            53,
+            255
+        ],
+        "toColor": [
+            223,
+            222,
+            54,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            223,
+            222,
+            54,
+            255
+        ],
+        "toColor": [
+            229,
+            216,
+            56,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            229,
+            216,
+            56,
+            255
+        ],
+        "toColor": [
+            232,
+            213,
+            56,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            232,
+            213,
+            56,
+            255
+        ],
+        "toColor": [
+            237,
+            207,
+            57,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            237,
+            207,
+            57,
+            255
+        ],
+        "toColor": [
+            240,
+            203,
+            58,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            240,
+            203,
+            58,
+            255
+        ],
+        "toColor": [
+            244,
+            196,
+            58,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            244,
+            196,
+            58,
+            255
+        ],
+        "toColor": [
+            248,
+            190,
+            57,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            248,
+            190,
+            57,
+            255
+        ],
+        "toColor": [
+            249,
+            186,
+            56,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            249,
+            186,
+            56,
+            255
+        ],
+        "toColor": [
+            251,
+            179,
+            54,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            251,
+            179,
+            54,
+            255
+        ],
+        "toColor": [
+            252,
+            174,
+            52,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            252,
+            174,
+            52,
+            255
+        ],
+        "toColor": [
+            253,
+            166,
+            49,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            253,
+            166,
+            49,
+            255
+        ],
+        "toColor": [
+            254,
+            158,
+            46,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            254,
+            158,
+            46,
+            255
+        ],
+        "toColor": [
+            254,
+            152,
+            44,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            254,
+            152,
+            44,
+            255
+        ],
+        "toColor": [
+            253,
+            143,
+            40,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            253,
+            143,
+            40,
+            255
+        ],
+        "toColor": [
+            252,
+            137,
+            38,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            252,
+            137,
+            38,
+            255
+        ],
+        "toColor": [
+            251,
+            128,
+            34,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            251,
+            128,
+            34,
+            255
+        ],
+        "toColor": [
+            250,
+            122,
+            31,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            250,
+            122,
+            31,
+            255
+        ],
+        "toColor": [
+            247,
+            113,
+            27,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            247,
+            113,
+            27,
+            255
+        ],
+        "toColor": [
+            245,
+            104,
+            23,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            245,
+            104,
+            23,
+            255
+        ],
+        "toColor": [
+            243,
+            99,
+            21,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            243,
+            99,
+            21,
+            255
+        ],
+        "toColor": [
+            239,
+            90,
+            17,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            239,
+            90,
+            17,
+            255
+        ],
+        "toColor": [
+            237,
+            85,
+            15,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            237,
+            85,
+            15,
+            255
+        ],
+        "toColor": [
+            233,
+            77,
+            13,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            233,
+            77,
+            13,
+            255
+        ],
+        "toColor": [
+            229,
+            70,
+            10,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            229,
+            70,
+            10,
+            255
+        ],
+        "toColor": [
+            226,
+            66,
+            9,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            226,
+            66,
+            9,
+            255
+        ],
+        "toColor": [
+            221,
+            60,
+            7,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            221,
+            60,
+            7,
+            255
+        ],
+        "toColor": [
+            217,
+            56,
+            6,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            217,
+            56,
+            6,
+            255
+        ],
+        "toColor": [
+            212,
+            50,
+            5,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            212,
+            50,
+            5,
+            255
+        ],
+        "toColor": [
+            208,
+            47,
+            4,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            208,
+            47,
+            4,
+            255
+        ],
+        "toColor": [
+            201,
+            41,
+            3,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            201,
+            41,
+            3,
+            255
+        ],
+        "toColor": [
+            195,
+            36,
+            2,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            195,
+            36,
+            2,
+            255
+        ],
+        "toColor": [
+            190,
+            33,
+            2,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            190,
+            33,
+            2,
+            255
+        ],
+        "toColor": [
+            182,
+            28,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            182,
+            28,
+            1,
+            255
+        ],
+        "toColor": [
+            177,
+            25,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            177,
+            25,
+            1,
+            255
+        ],
+        "toColor": [
+            169,
+            21,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            169,
+            21,
+            1,
+            255
+        ],
+        "toColor": [
+            160,
+            17,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            160,
+            17,
+            1,
+            255
+        ],
+        "toColor": [
+            154,
+            14,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            154,
+            14,
+            1,
+            255
+        ],
+        "toColor": [
+            145,
+            11,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            145,
+            11,
+            1,
+            255
+        ],
+        "toColor": [
+            139,
+            9,
+            1,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            139,
+            9,
+            1,
+            255
+        ],
+        "toColor": [
+            129,
+            6,
+            2,
+            255
+        ]
+    },
+    {
+        "type": "algorithmic",
+        "algorithm": "esriHSVAlgorithm",
+        "fromColor": [
+            129,
+            6,
+            2,
+            255
+        ],
+        "toColor": [
+            122,
+            4,
+            2,
+            255
+        ]
+    }
+]
